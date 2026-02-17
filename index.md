@@ -84,13 +84,6 @@ Step-by-step Git fundamentals course.
 
 ---
 
----
-layout: default
-title: Self Study Resources
----
-
-# Self Study Resources Before Pre-Work
-
 ### Microsoft Learn
 
 [https://learn.microsoft.com/](https://learn.microsoft.com/)
