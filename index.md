@@ -100,13 +100,19 @@ Make a list of words you're not familiar with and google them or ask an LLM to e
 
 ### ThursdAI
 
+[https://sub.thursdai.news/podcast](https://sub.thursdai.news/podcast)
+
 - Technical podcast about the latest model releases and happenings in AI. 
 
 ### Latent Space
 
+[https://www.latent.space/podcast](https://www.latent.space/podcast)
+
 - Technical conversations about LLMs, agents, and AI infrastructure.
 
 ### Lenny’s Podcast
+
+[https://www.lennysnewsletter.com/podcast](https://www.lennysnewsletter.com/podcast)
 
 - Less technical, product-oriented, but still excellent for understanding how AI features are built, shipped, and scaled in real companies.
 
